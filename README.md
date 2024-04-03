@@ -2,6 +2,8 @@ My name is Tuxilio and I’m strong supporter of free software. Because of this,
 
 **You will not find my own code here.** (No, forks created exclusively for pull requests don’t count.) My own code is hosted on **[Codeberg.org](https://codeberg.org/Tuxilio)**.
 
+To ensure that people without a GitHub account can also participate in software projects, I am currently developing a solution to mirror repositories, issues and pull requests to a Forgejo or Gitea instance. See [the repository](https://codeberg.org/Tuxilio/sync-test) for more information.
+
 ## GitHub is bad
 **I reject GitHub** because [GitHub is not free software](https://wuzzy.codeberg.page/essays/github/) and suffers from [the JavaScript Trap](https://www.gnu.org/philosophy/javascript-trap.html).
 
