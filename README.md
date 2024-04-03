@@ -13,7 +13,7 @@ If the free software movement wants to truly win, we have to go **free software 
 
 **If your project is on GitHub and you care about freedom, please consider migrating to a free platform.** The more people embrace *actual* freedom, the easier it will become for all of us.
 
-**I recommend [Codeberg.org](https://codeberg.org)** It runs Forgejo, has a very similar interface, easy migration and is very stable. I have had *very* good experience with it.
+**I recommend [Codeberg.org](https://codeberg.org)** It runs Forgejo, has a very similar interface, easy migration and is very stable. I have had *very* good experience with it. See [https://forgejo.org/compare/](https://forgejo.org/compare/) for a comparison to other Git services.
 
 Before you actually migrate, please make sure to read their documentation first in order to avoid ugly surprises.
 
@@ -26,4 +26,4 @@ Check out my [personal website](https://tuxilio.codeberg.page) and my [Codeberg 
 ## License
 
 This text is in the Public Domain, released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
-It is very similar to the README text from [Wuzzy](https://github.com/Wuzzy2)
+It is very similar to the README text from [Wuzzy](https://github.com/Wuzzy2).
